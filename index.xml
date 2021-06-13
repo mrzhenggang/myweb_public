@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mr.ZhengGang&#39;s Web</title>
-    <link>https://mrzhenggang.com/</link>
+    <link>https://mrzhenggang.github.io/myweb_public/</link>
     <description>Recent content on Mr.ZhengGang&#39;s Web</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es</language><atom:link href="https://mrzhenggang.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>es</language><atom:link href="https://mrzhenggang.github.io/myweb_public/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
